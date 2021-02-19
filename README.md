@@ -1,2 +1,2 @@
 # sample-gps-swift
-Sample code for a
+Sample code for displaying current location using GPS.
